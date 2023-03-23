@@ -1,0 +1,28 @@
+Algoritmi2_Tehtavat
+
+Perinnönjakotehtävä:
+
+                   int String int int
+Henkiöiden syntaxi Nro|Nimi  |v1 |v2
+
+Nro * (-1), jos kuollut
+vN == 0, jos eri sukupuusta
+Jos ei lapsia, perintö vanhemmille
+
+NroP summa
+Nro1 Nimi 0 0
+Nro2 Nimi 0 0
+...
+NroP Nimi x y
+...
+NroN Nimi z w
+
+tulostus syntaksi:
+
+Nimi saa summa
+...
+Jakamatta jää x > 0
+
+Virhe: syötteessä virhe.
+
+3 Amalia 0 2\n-4 Bernard 2 1\n5 Cecilia 1 2\n-6 Erika 0 0\n7 Ferdinand 6 0\n8 Daniel 0 1
